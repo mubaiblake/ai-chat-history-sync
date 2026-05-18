@@ -1,0 +1,11 @@
+[project]
+name = "ai-chat-history-sync"
+version = "0.1.0"
+description = "Collect local AI chat histories and browser-exported AI conversations into a local Markdown archive."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "baileup" }]
+
+[tool.pytest.ini_options]
+testpaths = ["ai_chat_history/tests"]

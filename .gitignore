@@ -1,0 +1,22 @@
+# Local runtime archives and private chat data
+ai_chat_history/inbox/
+ai_chat_history/raw/
+ai_chat_history/markdow_history/
+ai_chat_history/state/
+AI Chat History/
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+*.bak
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
