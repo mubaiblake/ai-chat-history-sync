@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="360" viewBox="0 0 980 360" role="img" aria-labelledby="title desc">
+  <title id="title">Archive folder layout</title>
+  <desc id="desc">The AI Chat History folder contains inbox, raw, markdown history, and state folders.</desc>
+  <rect width="980" height="360" fill="#f8fafc"/>
+  <rect x="120" y="38" width="740" height="284" rx="18" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="158" y="82" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0f172a">AI Chat History/</text>
+  <text x="190" y="126" font-family="Menlo, Consolas, monospace" font-size="16" fill="#334155">inbox/</text>
+  <text x="310" y="126" font-family="Inter, Arial, sans-serif" font-size="14" fill="#64748b">new web exports waiting to be imported</text>
+  <text x="190" y="164" font-family="Menlo, Consolas, monospace" font-size="16" fill="#334155">raw/</text>
+  <text x="310" y="164" font-family="Inter, Arial, sans-serif" font-size="14" fill="#64748b">deduplicated original source files</text>
+  <text x="190" y="202" font-family="Menlo, Consolas, monospace" font-size="16" fill="#334155">markdow_history/</text>
+  <text x="370" y="202" font-family="Inter, Arial, sans-serif" font-size="14" fill="#64748b">readable Markdown output</text>
+  <text x="190" y="240" font-family="Menlo, Consolas, monospace" font-size="16" fill="#334155">state/</text>
+  <text x="310" y="240" font-family="Inter, Arial, sans-serif" font-size="14" fill="#64748b">manifest, project map, and local sync state</text>
+  <text x="158" y="292" font-family="Inter, Arial, sans-serif" font-size="14" fill="#64748b">Keep this archive local. It contains private conversations.</text>
+</svg>

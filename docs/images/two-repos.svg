@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="300" viewBox="0 0 980 300" role="img" aria-labelledby="title desc">
+  <title id="title">Two repository roles</title>
+  <desc id="desc">The ChatGPT exporter auto-sync repository gets JSON from ChatGPT web, and AI Chat History Sync organizes all sources into Markdown.</desc>
+  <rect width="980" height="300" fill="#f8fafc"/>
+  <rect x="80" y="58" width="360" height="184" rx="18" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="260" y="104" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0f172a">chatgpt-exporter-auto-sync</text>
+  <text x="260" y="142" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="15" fill="#475569">Runs inside ChatGPT web</text>
+  <text x="260" y="166" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="15" fill="#475569">Downloads missing or updated JSON</text>
+  <text x="260" y="190" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="15" fill="#475569">Sends JSON to localhost</text>
+  <rect x="540" y="58" width="360" height="184" rx="18" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="720" y="104" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0f172a">ai-chat-history-sync</text>
+  <text x="720" y="142" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="15" fill="#475569">Receives and imports source files</text>
+  <text x="720" y="166" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="15" fill="#475569">Deduplicates raw archive</text>
+  <text x="720" y="190" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="15" fill="#475569">Writes Markdown history</text>
+  <path d="M440 150h100" stroke="#2563eb" stroke-width="3"/>
+  <path d="m532 142 12 8-12 8" fill="none" stroke="#2563eb" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="490" y="132" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" fill="#2563eb">JSON</text>
+</svg>

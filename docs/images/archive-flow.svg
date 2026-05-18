@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="300" viewBox="0 0 980 300" role="img" aria-labelledby="title desc">
+  <title id="title">AI chat history archive flow</title>
+  <desc id="desc">Local AI sources and web exports are collected into raw files and Markdown history.</desc>
+  <rect width="980" height="300" fill="#f8fafc"/>
+  <rect x="42" y="70" width="190" height="130" rx="14" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="137" y="112" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#0f172a">Sources</text>
+  <text x="137" y="144" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" fill="#475569">Claude Code</text>
+  <text x="137" y="166" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" fill="#475569">Codex</text>
+  <text x="137" y="188" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" fill="#475569">ChatGPT / Claude web</text>
+  <rect x="300" y="70" width="190" height="130" rx="14" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="395" y="112" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#0f172a">Syncer</text>
+  <text x="395" y="144" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" fill="#475569">Parse</text>
+  <text x="395" y="166" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" fill="#475569">Deduplicate</text>
+  <text x="395" y="188" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" fill="#475569">Update manifest</text>
+  <rect x="558" y="70" width="170" height="130" rx="14" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="643" y="112" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#0f172a">Raw Archive</text>
+  <text x="643" y="150" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" fill="#475569">Original JSON</text>
+  <text x="643" y="172" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" fill="#475569">Original exports</text>
+  <rect x="786" y="70" width="150" height="130" rx="14" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="861" y="112" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#0f172a">Markdown</text>
+  <text x="861" y="150" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" fill="#475569">Obsidian ready</text>
+  <text x="861" y="172" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" fill="#475569">Agent readable</text>
+  <path d="M232 135h68" stroke="#2563eb" stroke-width="3"/>
+  <path d="m292 127 12 8-12 8" fill="none" stroke="#2563eb" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M490 135h68" stroke="#2563eb" stroke-width="3"/>
+  <path d="m550 127 12 8-12 8" fill="none" stroke="#2563eb" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M728 135h58" stroke="#2563eb" stroke-width="3"/>
+  <path d="m778 127 12 8-12 8" fill="none" stroke="#2563eb" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="490" y="252" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="15" fill="#334155">One archive root, many inputs, readable Markdown output.</text>
+</svg>
