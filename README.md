@@ -65,7 +65,7 @@ pipeline.
 Clone with submodules:
 
 ```bash
-git clone --recurse-submodules https://github.com/baileup/ai-chat-history-sync.git
+git clone --recurse-submodules https://github.com/mubaiblake/ai-chat-history-sync.git
 cd ai-chat-history-sync
 ```
 
@@ -126,7 +126,7 @@ git submodule update --init --recursive
 If you publish under a different GitHub username, edit `.gitmodules` and replace:
 
 ```text
-https://github.com/baileup/chatgpt-exporter-auto-sync.git
+https://github.com/mubaiblake/chatgpt-exporter-auto-sync.git
 ```
 
 with your actual repository URL.

@@ -5,7 +5,7 @@ description = "Collect local AI chat histories and browser-exported AI conversat
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "baileup" }]
+authors = [{ name = "mubaiblake" }]
 
 [tool.pytest.ini_options]
 testpaths = ["ai_chat_history/tests"]

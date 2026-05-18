@@ -8,7 +8,7 @@ import subprocess
 from pathlib import Path
 
 
-DEFAULT_URL = "https://github.com/baileup/chatgpt-exporter-auto-sync.git"
+DEFAULT_URL = "https://github.com/mubaiblake/chatgpt-exporter-auto-sync.git"
 DEFAULT_PATH = Path("vendor/chatgpt-exporter-auto-sync")
 
 

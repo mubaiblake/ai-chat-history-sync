@@ -1,4 +1,4 @@
 [submodule "vendor/chatgpt-exporter-auto-sync"]
 	path = vendor/chatgpt-exporter-auto-sync
-	url = https://github.com/baileup/chatgpt-exporter-auto-sync.git
+	url = https://github.com/mubaiblake/chatgpt-exporter-auto-sync.git
 	branch = master
